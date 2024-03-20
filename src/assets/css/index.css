@@ -7,6 +7,11 @@ body {
   background: linear-gradient(to right, #004e92, #000428); 
   font-family: Arial, Helvetica, sans-serif;
 }
+
+#root{
+  padding: 10rem;
+}
+
 ul {
   list-style: none;
   padding: 0;
